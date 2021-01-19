@@ -1,3 +1,5 @@
 # HackerRank
 
-Gonna chip away at vim comfortability with small excercises on hackerRank. Will write notes in the commit messages when I learn/make adjustments to any configs or mappings
+Gonna chip away at vim comfortability with small excercises on hackerRank. Will write notes in the commit messages when I learn/make adjustments to any configs or mappings. 
+
+Also making myself more familiar with python syntax. I like the ability to write a program without public static void main(String args []) {}
