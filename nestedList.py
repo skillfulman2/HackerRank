@@ -8,6 +8,6 @@ def secondLowestGrade(input):
 		nestedList.append(line.strip())
 	print(nestedList)
 
-	
+#not sure why this one is taking me so long gonna sleep on it	
 #print(secondLowestGrade("/Users/ryanremaly/Documents/workspace/HackerRank/input.txt"))
 print(secondLowestGrade("input.txt"))
