@@ -1,7 +1,11 @@
 def secondLowestGrade(input):
-	grades  = open(input,"r") 
+	grades  = open(input,"r")
+	grades.seek(1)
 	lines = grades.readlines()
-	nestedList = [[]]
+	
+	
+
+	nestedList = []
 	
 	for line in lines:
 		print(line.strip())
